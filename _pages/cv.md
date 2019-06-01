@@ -97,7 +97,7 @@ Professional Affiliations
 
 Languages
 ======
-Native: English
-Advanced: Russian
-Intermediate: Ukrainian
-Reading: German, Yiddish, Old Church Slavonic
+* Native: English
+* Advanced: Russian
+* Intermediate: Ukrainian
+* Reading: German, Yiddish, Old Church Slavonic
