@@ -11,38 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Russian, Wellesley College, 2011
+* Ph.D in Slavic Languages and Literatures, Stanford University, 2020 (expected)
+
+Grants and Awards
+======
+* Maria Opasnova Tyler '52 Scholarship in Russian Studies, Wellesley College (2013, 2019)
+* Centennial Teaching Assistant Award, Stanford University (AY 2017-18)
+* The Pushkin Prize for Promise in Russian Language and Literature, Wellesley College (2011)
+* Benjamin A. Gilman International Scholarship, IIE (2009)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June-December 2018: Library and Archives Assistant 
+  * Hoover Institution Library and Archives
+  * Duties included rehousing incoming collections for stability and creating container lists and collection guides for Russian-language collections.
+  * Supervisor: Stephanie Watson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2015-2018: Graduate Student Coordinator, Language and Orientation Tutoring Program
+  * Vice Provost for Graduate Education, Stanford University
+  * Directed and implemented peer-to-peer English-language tutoring program for international graduate students, including hiring and supervision of tutors, recruitment and publicity, organizing and leading tutor-development events, developing budget requests and annual report, and evaluating effectiveness of the program. 
+  * Supervisor: Professor Russell Berman
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summers 2008-2011: Documents Clerk
+  * Texas Legislative Research Library
+  * Assisted with library-wide process of digitization of legislative documents.
+  * Supervisor: Donald Brower
   
-Talks
+* 2008-2011: Conservation Assistant
+  * Wellesley College Conservation Facility
+  * Performed a variety of treatments on collection items, including rebinding, damage repair, and the creation of protective enclosures.
+  
+* June-August 2007, January 2008: Office Assistant
+  * Stanley-Garrison & Associates
+  * Performed front-office duties such as answering phones and greeting clients, collected and processed donations, assisted in maintenance of databases, ran fundraising call time with lower level clients. 
+  
+  
+Conference Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +61,43 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Graduate Voice and Influence Program Fellow
+  * The Clayman Institute for Gender Research, Stanford University
+  * Autumn 2018 - Spring 2019
+
+* Graduate Student Representative to the Faculty
+  * Department of Slavic Languages and Literatures, Stanford University
+  * Autumn 2016 - present
+
+* Coordinator of "Kruzhok" (Graduate Student Colloquium)
+  * Department of Slavic Languages and Literatures, Stanford University
+  * Autumn 2016 - present
+  
+* Panel Organizer, "Shifting Boundaries of Disciplines, Art, and Life in the Avant-Garde," AATSEEL Annual Conference, February 2017
+
+* Panel Organizer, "Shifting Paradigms of Identity and Belonging: Language, Resistance, and Self-Discovery," AATSEEL Annual Conference, January 2016
+
+* Panel Organizer, "Identity in Translation: The Legacy of Jewish Writers in a Multilingual Russia," AATSEEL Annual Conference, January 2016
+  
+* Bridging the Gap Through Standards and Technology, STARTALK
+  * University of Iowa
+  * Summer 2015
+  
+* Volunteer at Learning Ally, Austin, TX
+  * 2012 - 2013
+
+Professional Affiliations
+======
+* American Association of Teachers of Slavic and East European Languages (AATSEEL)
+* Association for Slavic, East European & Eurasian Studies (ASEEES)
+* Association for Women in Slavic Studies (AWSS)
+* American Council for the Teaching of Foreign Languages (ACTFL)
+* Modern Languages Association (MLA)
+* Poetics and Linguistics Association (PALA)
+
+Languages
+======
+Native: English
+Advanced: Russian
+Intermediate: Ukrainian
+Reading: German, Yiddish, Old Church Slavonic
